@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "231242428997",
+    "firebase_url": "https://esp32-controlled-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "esp32-controlled",
+    "storage_bucket": "esp32-controlled.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231242428997:android:86adf00e3ca7d5124b692c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_controlled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO2JqnnBglE8r53fQeKdjlgzj-mACSf7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,3 @@
+*) nạp code cho esp32 : Khi nạp vào chương trình hiện connecting thì giữ nút boost đến khi hiện load % thì bỏ ra.
+*)link hướng dẫn kếi nối android với firebase : https://dayhocstem.com/blog/2023/01/tao-ung-dung-android-giao-tiep-voi-co-so-du-lieu-firebase.html
+*)monitor_speed = 115200
